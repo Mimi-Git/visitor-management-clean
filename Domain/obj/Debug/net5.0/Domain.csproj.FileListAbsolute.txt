@@ -2,7 +2,6 @@ C:\Projets\Git\visitor-management-clean\Domain\bin\Debug\net5.0\Domain.deps.json
 C:\Projets\Git\visitor-management-clean\Domain\bin\Debug\net5.0\Domain.dll
 C:\Projets\Git\visitor-management-clean\Domain\bin\Debug\net5.0\ref\Domain.dll
 C:\Projets\Git\visitor-management-clean\Domain\bin\Debug\net5.0\Domain.pdb
-C:\Projets\Git\visitor-management-clean\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
 C:\Projets\Git\visitor-management-clean\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projets\Git\visitor-management-clean\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
 C:\Projets\Git\visitor-management-clean\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
