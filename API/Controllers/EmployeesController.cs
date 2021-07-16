@@ -62,5 +62,13 @@ namespace API.Controllers
             await _mediator.Send(new DeleteEmployeeCommand() { Id = id });
             return NoContent();
         }
+
+        [HttpGet("export", Name = "ExportEmployees")]
+        public async Task<FileResult> ExportEmployees()
+        {
+            var fileDto = await _mediator.Send(new GetEmployeesExport.Query());
+
+            return File(fileDto.Data, fileDto.ContentType, fileDto.EmployeeFileName);
+        }
     }
 }
